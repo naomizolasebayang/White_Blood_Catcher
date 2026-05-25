@@ -1,7 +1,7 @@
 # White_Blood_Catcher
 Alternate version of the bioinformatics class mini-project, without any result files and the jupyter file only.
 
-For this code to work, the following packages must be installed:
+For this code to work, the following modules must be installed:
 1. Tensorflow
 2. Pandas
 3. Matplotlib
